@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="SBT: org.scala-lang:scala-library:2.10.4">
+    <archive path="/home/igleson/.sbt/boot/scala-2.10.4/lib/scala-library.jar" />
+  </library>
+  <library name="SBT:: scala-compiler-bundle:2.10.4">
+    <archive path="/home/igleson/.sbt/boot/scala-2.10.4/lib/scala-library.jar" />
+    <archive path="/home/igleson/.sbt/boot/scala-2.10.4/lib/scala-compiler.jar" />
+    <archive path="/home/igleson/.sbt/boot/scala-2.10.4/lib/scala-reflect.jar" />
+  </library>
+</eclipse-userlibraries>
+

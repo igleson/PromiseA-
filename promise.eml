@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../target/scala-2.10/test-classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../..">
+		<testFolder url="file://$MODULE_DIR$/../../src/test/scala"/>
+		<testFolder url="file://$MODULE_DIR$/../../src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../target/scala-2.10/src_managed/test"/>
+		<testFolder url="file://$MODULE_DIR$/../../src/test/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../target/scala-2.10/resource_managed/test"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../target"/>
+	</contentEntry>
+	<levels>
+		<level name="SBT: org.scala-lang:scala-library:2.10.4" value="project"/>
+	</levels>
+</component>
